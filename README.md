@@ -67,6 +67,10 @@ This project was inspired by the need to apply SVMs to real-world image classifi
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
 
----
-For questions or contributions, please contact [Your Email or GitHub].
+## Contact
+
+For questions or feedback, please contact:
+- Name: [Dhanush M]
+- Email: [dhanushdanny0611@gmail.com]
+- GitHub: [danny0611]
 
